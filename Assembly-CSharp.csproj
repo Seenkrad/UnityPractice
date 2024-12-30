@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets/Script/move.cs" />
      <Compile Include="Assets/Script/CharacterMove.cs" />
+     <Compile Include="Assets/Script/Interaction.cs" />
      <None Include="Assets/Material/NewUnlitShader.shader" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
